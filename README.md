@@ -111,10 +111,10 @@ npx mneme-ai ask "what does this project do"
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=patsa2561-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=patsa2561-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27" />
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=patsa2561-art&theme=tokyonight&hide_border=true&background=1a1b27" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patsa2561-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=patsa2561-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" />
 
 </div>
 
