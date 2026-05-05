@@ -1,39 +1,37 @@
 <div align="center">
+                                     shinnapat@dev ──────────────────────────────────
+                                     .
+   ████        ████                  ╭─ System ───────────────────────────────────────
+   ████        ████                  │  OS .............. Windows 11 Pro · WSL2
+   ████        ████                  │  Editor .......... VS Code · nvim
+   ████        ████                  │  Terminal ........ PowerShell · zsh
+   ████        ████                  │  Shell ........... starship · ohmyzsh
+   ████        ████                  ╰─
+   ████        ████                  .
+   ████        ████                  ╭─ Languages ────────────────────────────────────
+   ████        ████                  │  Daily ........... TypeScript · Node.js
+   ████      ██████                  │  Sometimes ....... Python · Go · SQL
+   ██████████████                    │  Real ............ ภาษาไทย · English
+   ████                              ╰─
+   ████                              .
+   ████                              ╭─ Building ─────────────────────────────────────
+   ████                              │  Mneme ........... memory layer for AI tools
+   ████                              │                    git history · code · MCP
+   ████                              │  Stack ........... TS · SQLite · FTS5 · MCP
+                                     │  Philosophy ...... local-first · MIT
+       μ ν ή μ η                     ╰─
+        memory                       .
+                                     ╭─ Open Source ──────────────────────────────────
+                                     │  npm ............. mneme-ai
+                                     │  GitHub .......... @patsa2561-art
+                                     │  License ......... MIT
+                                     ╰─
+                                     .
+                                     ╭─ Contact ──────────────────────────────────────
+                                     │  Email ........... patsa2561@gmail.com
+                                     │  Location ........ Bangkok, Thailand 🇹🇭
+                                     ╰─
 
-```
-                                       shinnapat@dev ────────────────────────────────
-                                       .
-   ▓██▓        ▓██▓                   ╭─ System ─────────────────────────────────────
-   ▓██▓        ▓██▓                   │  OS .............. Windows 11 Pro · WSL2
-   ▓██▓        ▓██▓                   │  Editor .......... VS Code · nvim
-   ▓██▓        ▓██▓                   │  Terminal ........ PowerShell · zsh
-   ▓██▓        ▓██▓                   │  Shell ........... starship · ohmyzsh
-   ▓██▓        ▓██▓                   ╰─
-   ▓██▓        ▓██▓                   .
-   ▓██▓        ▓██▓                   ╭─ Languages ──────────────────────────────────
-   ▓██▓        ▓██▓                   │  Daily ........... TypeScript · Node.js
-   ▓██▓     ▓▓▓██▓                    │  Sometimes ....... Python · Go · SQL
-   ▓██▓▓▓▓▓▀  ▀▀▀                     │  Real ............ ภาษาไทย · English
-   ▓██▓                               ╰─
-   ▓██▓                               .
-   ▓██▓                               ╭─ Building ───────────────────────────────────
-   ▓██▓                               │  Mneme ........... memory layer for AI tools
-    ▀▀▀                               │                    git history · code · MCP
-                                      │  Stack ........... TS · SQLite · FTS5 · MCP
-        μ ν ή μ η                     │  Philosophy ...... local-first · MIT
-       (memory)                       ╰─
-                                      .
-                                      ╭─ Open Source ────────────────────────────────
-                                      │  npm ............. mneme-ai
-                                      │  GitHub .......... @patsa2561-art
-                                      │  License ......... MIT
-                                      ╰─
-                                      .
-                                      ╭─ Contact ────────────────────────────────────
-                                      │  Email ........... patsa2561@gmail.com
-                                      │  Location ........ Bangkok, Thailand 🇹🇭
-                                      ╰─
-```
 
 </div>
 
