@@ -1,8 +1,10 @@
 <h1 align="center">μνήμη — memory</h1>
 
+<p align="center"><i>The thing AI doesn't have, and code desperately needs.</i></p>
+
 <table align="center">
 <tr>
-<td>
+<td valign="top">
 
 <pre>
    ████        ████
@@ -21,15 +23,15 @@
    ████
    ████
 
-   μ ν ή μ η
-    memory
+   μ  ν  ή  μ  η
+      memory
 </pre>
 
 </td>
-<td>
+<td valign="top">
 
 <pre>
-shinnapat@dev ─────────────────────
+shinnapat@dev ──────────────────────
 
 ╭─ System
 │  OS ......... Windows 11 Pro · WSL2
@@ -67,13 +69,11 @@ shinnapat@dev ─────────────────────
 </tr>
 </table>
 
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=patsa2561-art&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/patsa2561-art?style=for-the-badge&color=8b5cf6&labelColor=1a1b27)](https://github.com/patsa2561-art)
-[![npm](https://img.shields.io/npm/v/mneme-ai?style=for-the-badge&color=cb3837&logo=npm&labelColor=1a1b27)](https://www.npmjs.com/package/mneme-ai)
+[![Profile Views](https://komarev.com/ghpvc/?username=patsa2561-art&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)](https://github.com/patsa2561-art)
+[![GitHub followers](https://img.shields.io/github/followers/patsa2561-art?style=for-the-badge&color=8b5cf6&labelColor=1a1b27&logo=github)](https://github.com/patsa2561-art)
+[![npm](https://img.shields.io/npm/v/mneme-ai?style=for-the-badge&color=cb3837&logo=npm&labelColor=1a1b27&label=NPM)](https://www.npmjs.com/package/mneme-ai)
 
 </div>
 
@@ -96,7 +96,14 @@ npx mneme-ai init
 npx mneme-ai ask "what does this project do"
 ```
 
-[![Mneme Repo](https://github-readme-stats.vercel.app/api/pin/?username=patsa2561-art&repo=mneme-ai&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/patsa2561-art/mneme-ai)
+<div align="center">
+
+[![Mneme Stars](https://img.shields.io/github/stars/patsa2561-art/mneme-ai?style=for-the-badge&color=fbbf24&labelColor=1a1b27&logo=github)](https://github.com/patsa2561-art/mneme-ai/stargazers)
+[![Mneme Forks](https://img.shields.io/github/forks/patsa2561-art/mneme-ai?style=for-the-badge&color=8b5cf6&labelColor=1a1b27&logo=github)](https://github.com/patsa2561-art/mneme-ai/network/members)
+[![Mneme Issues](https://img.shields.io/github/issues/patsa2561-art/mneme-ai?style=for-the-badge&color=06b6d4&labelColor=1a1b27&logo=github)](https://github.com/patsa2561-art/mneme-ai/issues)
+[![License MIT](https://img.shields.io/github/license/patsa2561-art/mneme-ai?style=for-the-badge&color=10b981&labelColor=1a1b27)](https://github.com/patsa2561-art/mneme-ai/blob/main/LICENSE)
+
+</div>
 
 ---
 
@@ -104,10 +111,10 @@ npx mneme-ai ask "what does this project do"
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=patsa2561-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=patsa2561-art&theme=tokyonight&hide_border=true&background=1a1b27)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=patsa2561-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=patsa2561-art&theme=tokyonight&hide_border=true&background=1a1b27" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patsa2561-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patsa2561-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" />
 
 </div>
 
@@ -117,7 +124,11 @@ npx mneme-ai ask "what does this project do"
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/patsa2561-art/patsa2561-art/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patsa2561-art/patsa2561-art/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patsa2561-art/patsa2561-art/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/patsa2561-art/patsa2561-art/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -149,7 +160,7 @@ npx mneme-ai ask "what does this project do"
 
 ---
 
-## 💭 Quote of the Day
+## 💭 Quote
 
 <div align="center">
 
@@ -162,6 +173,5 @@ npx mneme-ai ask "what does this project do"
 <div align="center">
 
 ### *"μνήμη"* — memory.
-### The thing AI doesn't have, and code desperately needs.
 
 </div>
